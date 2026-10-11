@@ -4,6 +4,3 @@ __pycache__/
 wandb/
 *.pyc
 
-# Course-provided input files; redistribution permission is unconfirmed.
-rotated-digit-clustering/*.npy
-product-review-sentiment-classification/data_product_reviews/*.csv
